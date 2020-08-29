@@ -14,6 +14,6 @@ def loop_message_n_times(string, integer)
   end
 end
 
-def 
+def output_array
 
 loop_message_n_times("yup", 6)
