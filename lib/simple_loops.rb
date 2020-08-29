@@ -31,6 +31,7 @@ def return_string_array(array)
     count += 1
   end
   p new_array
+  p new_array[0].class
 end
 
 return_string_array([1,2,3,4,5])
