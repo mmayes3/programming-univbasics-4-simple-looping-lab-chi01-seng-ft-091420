@@ -22,4 +22,4 @@ def output_array(array)
   end
 end
 
-output_array(["1", "2", "3", 5, 6.0])
+def 
