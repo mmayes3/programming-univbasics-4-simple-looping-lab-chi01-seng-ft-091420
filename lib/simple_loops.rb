@@ -30,7 +30,8 @@ def return_string_array(array)
     new_array.push(array[count].to_s)
     count += 1
   end
-  puts new_array
+  p new_array
+  p new_array[0].class
 end
 
 return_string_array([1,2,3,4,5])
