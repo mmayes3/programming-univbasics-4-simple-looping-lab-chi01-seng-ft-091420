@@ -14,4 +14,4 @@ def loop_message_n_times(string, integer)
   end
 end
 
-loop_message_n_times("yup", 5)
+loop_message_n_times("yup", 6)
